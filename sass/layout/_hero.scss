@@ -1,0 +1,17 @@
+.hero {
+    background: var(--dark-background);
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-image: linear-gradient(
+        to right,
+        rgba(0, 0, 0, 0.25),
+        rgba(0, 0, 0, 0.25)),
+      url("../images/backgroun-title.jpg");
+    max-width: 1600px;
+    background-size: cover;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-repeat: no-repeat;
+  }
